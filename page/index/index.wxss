@@ -1,0 +1,74 @@
+
+.index{
+    position: relative;
+    font-size: 28rpx;
+    line-height: 48rpx;
+    color: #232323;
+    border-bottom: 1px solid #d0d0d0;
+    overflow:hidden;
+    padding: 20rpx;
+}
+.title{
+    margin-top: -7rpx;
+}
+.thumbnail{
+    width: 200rpx;
+    height: 175rpx;
+    float:left;
+    margin-right: 20rpx;
+}
+.pcs{
+    font-size: 24rpx;
+    color: #a6a6a6;
+}
+.ppcon{
+    display: block;
+}
+.price_con{
+    float: right;
+    padding-right: 20rpx;
+}
+.price {
+    font-size: 36rpx;
+    color: #fc4226;
+}
+.unit{
+    font-size: 24rpx;
+    color: #808080;
+}
+
+/*attr*/
+.attr{
+    display: block;
+    line-height: 14rpx;
+    position: relative;
+}
+.attrbd{
+    font-size: 22rpx;
+    line-height: 40rpx;
+    color: #e78b02;
+    border: 1rpx solid #e78b02;
+    margin-right: 10rpx;
+}
+.attr2{
+    color: #01a901;
+    border: 1rpx solid #01a901;
+}
+.attr3{
+    color: #0a8db3;
+    border: 1rpx solid #0a8db3;
+}
+.attr_right{
+    color: #a6a6a6;
+    position: absolute;
+    right: 20rpx;
+    font-size: 24rpx;
+   
+}
+.tips1{
+    padding: 40rpx;
+    text-align: center;
+    font-size: 28rpx;
+    color: #ccc;
+}
+

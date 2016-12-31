@@ -1,0 +1,25 @@
+<view class="index">
+   <image src="http://pic3.58cdn.com.cn/p1/small/n_v1bl2lwtod2nkfq4algvcq.jpg?w=180&h=134" class="thumbnail"></image>
+   <view class="con">
+            <text class="title">东三环双井劲松国贸10号线首城国际 买一层送一层 可注册</text>
+            <view class="ppcon">
+                <text class="pcs">首城国际中心</text>
+                <text class="price_con">
+                    <text class="price">450</text>
+                    <text class="unit">元</text>
+                </text>
+             </view>
+            <view class="attr">
+                <text class="attr_left">
+                    <text class="attrbd">满五唯一</text>
+                    <text class="attrbd attr2">超市</text>
+                    <text class="attrbd attr3">银行</text>
+                    <text class="attrbd attr4">车站</text>
+                </text>
+                <text class="attr_right">
+                    精选
+                </text>
+            </view>
+   </view> 
+</view>
+
